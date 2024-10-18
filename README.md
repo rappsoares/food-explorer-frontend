@@ -18,6 +18,18 @@ O Food Explorer é um aplicativo web que oferece uma experiência completa para 
 
 - O back-end do projeto você pode conferir [aqui](https://github.com/rappsoares/food-explorer-backend?tab=readme-ov-file).
 
+## Usuários Padrão
+
+### Admin
+- **Email:** admin@mail.com
+- **Senha:** admin123
+- **Permissões:** Acesso total
+
+### User
+- **Email:** user@mail.com
+- **Senha:** 123123
+- **Permissões:** Acesso limitado
+
 ### **Licença**
 
 Este projeto está sob a licença MIT.
